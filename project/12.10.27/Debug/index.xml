@@ -1,0 +1,22 @@
+<xml x="0" y="0" height="300" width="500">
+	<div id="qiu" height="100" width="300" top="10" left="10" enter="true">
+		<img src="baidu.gif" scale="false"></img>
+		<p font="ºÚÌå" fontsize="16">ÄãºÃ !hello!</p>
+
+	</div>
+  
+  
+	<div id="qiu2" class="q" height="20" width="20" top="20" left="20" action="hello" >
+	</div>
+	
+	<Button height="80" width="200" action="hello" top="30" left="10">
+		<p font="ºÚÌå" fontsize="8">hello button</p>
+		<img src="baidu.gif" scale="true"></img>
+		<div id="qiu2" class="q" height="20" width="20" top="20" left="20" action="hello" ></div>
+	</Button>
+  
+</xml>
+<xml>
+	<div id="qiu3" class="q">
+  </div>
+</xml>
